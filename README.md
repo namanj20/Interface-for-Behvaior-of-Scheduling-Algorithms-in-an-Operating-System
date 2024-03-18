@@ -1,3 +1,5 @@
+# Scheduling Algorithms Simulation
+
 With the help of the TKINTER library we have created an application to stimulate scheduling algorithms in any operating system.
     
 There are a total of 9 algorithms implemented in python using in-house logic and each algorithm is highly customised to produce accurate results
